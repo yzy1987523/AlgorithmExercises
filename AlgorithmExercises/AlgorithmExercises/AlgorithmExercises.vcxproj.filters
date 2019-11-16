@@ -13,10 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="头文件\E_A">
+      <UniqueIdentifier>{fc084e2a-dd56-49b8-a3eb-cf19368d8aba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\E_A">
+      <UniqueIdentifier>{863ce6a7-97b4-4286-8b9b-e6ed066089a3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
       <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="E_A\E001.h">
+      <Filter>头文件\E_A</Filter>
+    </ClInclude>
+    <ClInclude Include="E_A\E002.h">
+      <Filter>头文件\E_A</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

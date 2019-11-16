@@ -2,9 +2,9 @@
 //
 
 #include "pch.h"
-#include <iostream>
-
+#include "E_A/E001.h"
 int main()
 {
     std::cout << "Hello World!\n"; 
+	E001::E001Test();
 }

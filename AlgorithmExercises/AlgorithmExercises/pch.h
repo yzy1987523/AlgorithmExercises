@@ -8,7 +8,9 @@
 
 #ifndef PCH_H
 #define PCH_H
-
+#include <map>
+#include <vector>
+#include <iostream>
 // TODO: 添加要在此处预编译的标头
 
 #endif //PCH_H
