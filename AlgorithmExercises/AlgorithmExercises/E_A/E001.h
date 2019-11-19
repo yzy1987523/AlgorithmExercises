@@ -9,7 +9,7 @@ namespace E001 {
 //#include <map>
 //#include <vector>
 //#include <iostream>
-	using namespace std;
+	//using namespace std;
 	
 	vector<int> twoSum(vector<int>& nums, int target) {
 		map<int, int> record;
@@ -27,7 +27,7 @@ namespace E001 {
 		}		
 		return v;
 	}
-	void E001Test()
+	void Test()
 	{
 		vector<int>nums;
 		int step = 0;

@@ -3,8 +3,10 @@
 
 #include "pch.h"
 #include "E_A/E001.h"
+#include "E_A/E002.h"
 int main()
 {
     std::cout << "Hello World!\n"; 
-	E001::E001Test();
+	//E001::Test();
+	E002::Test();
 }
