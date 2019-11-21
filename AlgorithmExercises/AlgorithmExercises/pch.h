@@ -14,6 +14,7 @@
 #include <stdlib.h>
 #include <iostream>
 #include<algorithm>
+#include<string>
 
 using namespace std;
 // TODO: 添加要在此处预编译的标头
