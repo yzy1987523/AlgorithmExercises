@@ -8,6 +8,8 @@
 #include "E_A/E004.h"
 #include "E_A/E005.h"
 #include "E_A/E006.h"
+#include "E_A/E007.h"
+#include "E_A/E008.h"
 int main()
 {
     std::cout << "Hello World!\n"; 
@@ -16,5 +18,7 @@ int main()
 	//E003::Test();
 	//E004::Test();
 	//E005::Test();
-	E006::Test();
+	//E006::Test();
+	//E007::Test();
+	E008::Test();
 }

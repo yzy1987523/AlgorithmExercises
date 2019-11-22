@@ -42,6 +42,12 @@
     <ClInclude Include="E_A\E006.h">
       <Filter>头文件\E_A</Filter>
     </ClInclude>
+    <ClInclude Include="E_A\E007.h">
+      <Filter>头文件\E_A</Filter>
+    </ClInclude>
+    <ClInclude Include="E_A\E008.h">
+      <Filter>头文件\E_A</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">

@@ -157,6 +157,8 @@
     <ClInclude Include="E_A\E004.h" />
     <ClInclude Include="E_A\E005.h" />
     <ClInclude Include="E_A\E006.h" />
+    <ClInclude Include="E_A\E007.h" />
+    <ClInclude Include="E_A\E008.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
