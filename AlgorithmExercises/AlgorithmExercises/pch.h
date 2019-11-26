@@ -15,7 +15,16 @@
 #include <iostream>
 #include<algorithm>
 #include<string>
+#include <boost/version.hpp>
+#include <boost/config.hpp>
+#include <boost/lexical_cast.hpp>   
+#include <boost/regex.hpp>
+#include <boost/algorithm/string.hpp>
+#include <boost/graph/undirected_graph.hpp>
+#include <boost/graph/adjacency_list.hpp>
 
+#include <boost/typeof/typeof.hpp> 
+using namespace boost;
 using namespace std;
 // TODO: 添加要在此处预编译的标头
 
