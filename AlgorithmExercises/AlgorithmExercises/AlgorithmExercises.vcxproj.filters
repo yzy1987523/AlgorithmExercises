@@ -19,6 +19,9 @@
     <Filter Include="源文件\E_A">
       <UniqueIdentifier>{863ce6a7-97b4-4286-8b9b-e6ed066089a3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\E_B">
+      <UniqueIdentifier>{47beb3f1-d91d-4aab-8548-f35df389b269}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -46,6 +49,21 @@
       <Filter>头文件\E_A</Filter>
     </ClInclude>
     <ClInclude Include="E_A\E008.h">
+      <Filter>头文件\E_A</Filter>
+    </ClInclude>
+    <ClInclude Include="E_A\E009.h">
+      <Filter>头文件\E_A</Filter>
+    </ClInclude>
+    <ClInclude Include="E_A\E010.h">
+      <Filter>头文件\E_A</Filter>
+    </ClInclude>
+    <ClInclude Include="E_A\E011.h">
+      <Filter>头文件\E_A</Filter>
+    </ClInclude>
+    <ClInclude Include="E_A\E012.h">
+      <Filter>头文件\E_A</Filter>
+    </ClInclude>
+    <ClInclude Include="E_A\E013.h">
       <Filter>头文件\E_A</Filter>
     </ClInclude>
   </ItemGroup>

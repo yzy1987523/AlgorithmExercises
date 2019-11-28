@@ -22,8 +22,8 @@
 #include <boost/algorithm/string.hpp>
 #include <boost/graph/undirected_graph.hpp>
 #include <boost/graph/adjacency_list.hpp>
-
 #include <boost/typeof/typeof.hpp> 
+#include <regex>
 using namespace boost;
 using namespace std;
 // TODO: 添加要在此处预编译的标头

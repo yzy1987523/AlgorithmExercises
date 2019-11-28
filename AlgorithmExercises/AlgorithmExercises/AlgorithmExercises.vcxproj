@@ -171,6 +171,11 @@
     <ClInclude Include="E_A\E006.h" />
     <ClInclude Include="E_A\E007.h" />
     <ClInclude Include="E_A\E008.h" />
+    <ClInclude Include="E_A\E009.h" />
+    <ClInclude Include="E_A\E010.h" />
+    <ClInclude Include="E_A\E011.h" />
+    <ClInclude Include="E_A\E012.h" />
+    <ClInclude Include="E_A\E013.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>

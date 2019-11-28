@@ -2,14 +2,19 @@
 //
 
 #include "pch.h"
-#include "E_A/E001.h"
-#include "E_A/E002.h"
-#include "E_A/E003.h"
-#include "E_A/E004.h"
-#include "E_A/E005.h"
-#include "E_A/E006.h"
-#include "E_A/E007.h"
-#include "E_A/E008.h"
+//#include "E_A/E001.h"
+//#include "E_A/E002.h"
+//#include "E_A/E003.h"
+//#include "E_A/E004.h"
+//#include "E_A/E005.h"
+//#include "E_A/E006.h"
+//#include "E_A/E007.h"
+//#include "E_A/E008.h"
+//#include "E_A/E009.h"
+//#include "E_A/E010.h"
+//#include "E_A/E011.h"
+//#include "E_A/E012.h"
+#include "E_A/E013.h"
 int main()
 {
     std::cout << "Hello World!\n"; 
@@ -20,5 +25,10 @@ int main()
 	//E005::Test();
 	//E006::Test();
 	//E007::Test();
-	E008::Test();
+	//E008::Test();
+	//E009::Test();
+	//E010::Test();
+	//E011::Test();
+	//E012::Test();
+	E013::Test();
 }
